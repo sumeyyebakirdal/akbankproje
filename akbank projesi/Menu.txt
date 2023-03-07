@@ -1,0 +1,14 @@
+* Lütfen bir pizza tabani seçiniz:
+1: Classic fiyat:10 tl 
+2: Margarita fiyat:12 tl
+3: Turk Pizzasi fiyat:15 tl
+4:Sade pizza fiyat:9 tl
+* Hangi sosu secersiniz?:
+11: Zeytin fiyat:1.5 tl
+12: Mantarlar fiyat:2.0 tl
+13: Keci Peyniri fiyat 2.5 tl:
+14: Et fiyat:4.0 tl
+15: Sogan fiyat:3.0 tl
+16: Misir fiyat:3.5 tl
+
+* Tesekkür ederiz!
